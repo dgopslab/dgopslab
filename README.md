@@ -8,7 +8,7 @@ Derzeit beschäftige ich mich vor allem mit:
 - **SQL**
 - **Netzwerkgrundlagen**
 
-Außerdem interessiere ich mich zunehmend für **Automatisierung** und möchte mich langfristig in Richtung **DevOps / Cloud Engineering** weiterentwickeln.
+Außerdem interessiere ich mich zunehmend für Automatisierung und möchte mich langfristig in Richtung DevOps und Cloud Engineering weiterentwickeln.
 
 ## Was du hier findest
 Auf meinem GitHub dokumentiere ich meinen Lernfortschritt und veröffentliche nach und nach Übungs- und Lernprojekte, die meinen aktuellen Entwicklungsstand nachvollziehbar zeigen.

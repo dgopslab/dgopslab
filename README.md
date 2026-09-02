@@ -13,8 +13,8 @@ Dort beschäftige ich mich unter anderem mit Linux-Servern, SSH, Virtualisierung
 
 ### [NetBuddy](https://github.com/dgopslab/netbuddy)
 
-Ein Python-Lernprojekt rund um IPv4, Subnetting und Routing.
-Das Projekt entsteht schrittweise parallel zu meinem aktuellen Lernstand und verbindet Netzwerktechnik mit meinen Python-Grundlagen.
+Ein kleines Python-Lernprojekt, mit dem ich Netzwerktechnik und Programmierung miteinander verbinde.
+Aktuell arbeite ich an der Verarbeitung von CIDR-Eingaben und baue den IPv4-Subnetzrechner schrittweise weiter aus.
 
 ### [FISI Second Brain – Agentenvergleich](https://github.com/dgopslab/fisi-second-brain-agentenvergleich)
 

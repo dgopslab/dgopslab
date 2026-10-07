@@ -8,8 +8,7 @@ Aktuell vertiefe ich vor allem **Netzwerktechnik und Linux**. Themen aus der Ums
 
 ### [Homelab FISI](https://github.com/dgopslab/homelab-fisi)
 
-Mein persönliches Homelab unter Pop!_OS mit KVM/QEMU und libvirt.
-Dort beschäftige ich mich unter anderem mit Linux-Servern, SSH, Virtualisierung, Netzwerkgrundlagen und systematischer Fehlersuche.
+Mein Homelab unter Pop!_OS mit KVM/QEMU und libvirt. Dort habe ich einen Windows Server mit Active Directory und einen Ubuntu-Server aufgebaut und miteinander verbunden. Dazu kommt ein Fernzugriff über Cloudflare Tunnel, den ich vom Schulungsstandort aus getestet habe. Dokumentiert sind Aufbau, Fehlersuche und offene Punkte.
 
 ### [NetBuddy](https://github.com/dgopslab/netbuddy)
 
